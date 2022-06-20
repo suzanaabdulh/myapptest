@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          CoolClick
+          CoolClick with Azure
         </a>
       </header>
     </div>
